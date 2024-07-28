@@ -1,0 +1,9 @@
+The keyboard shortcuts for LockPDF Pro are as follows:
+
+. Alt + s: Browse PDF
+. Alt + t: Focus password Textbox
+. Alt + e: Encrypt PDF
+. Alt + d: Decrypt PDF
+
+
+
