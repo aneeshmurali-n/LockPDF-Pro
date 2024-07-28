@@ -23,6 +23,8 @@ LockPDF Pro is a simple, lightweight software for encrypting and decrypting PDF 
 
 LockPDF Pro V1.0 has a simple and intuitive interface:
 
+![image](https://github.com/user-attachments/assets/7ffc6bc0-cf85-45cb-91bc-0e204b0d473a)
+
 - **Browse PDF:** Click this button to browse and select a PDF file.
 - **Decrypt PDF:** Click this button to create a decrypted copy of the selected PDF file.
 - **Encrypt PDF:** Click this button to create an encrypted copy of the selected PDF file.
