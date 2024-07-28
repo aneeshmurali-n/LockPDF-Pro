@@ -1,6 +1,9 @@
 # LockPDF-Pro
 LockPDF Pro is a simple, lightweight software for encrypting and decrypting PDF files without altering the original copy. Operating entirely offline, it ensures document security from online threats. With a user-friendly interface, it allows easy addition or removal of passwords, maintaining the integrity and original content of your PDFs.
 
+![gui](https://github.com/user-attachments/assets/853244f4-9ed4-4d97-9776-da8467c9a3b3)
+
+
 ## Features
 
 - **RC4 128-bit Encryption:** Secure your PDF files using robust encryption methods.
